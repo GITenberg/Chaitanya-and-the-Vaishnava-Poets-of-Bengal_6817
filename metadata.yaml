@@ -1,0 +1,24 @@
+_repo: Chaitanya-and-the-Vaishnava-Poets-of-Bengal_6817
+creator:
+  author:
+    agent_name: Beames, John
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2207'
+    url: http://www.gutenberg.org/2009/agents/2207
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chaitanya, 1486-1534'
+- !lcsh 'Vaishnavism'
+- !lcsh 'Vaishnava poetry, Bengali'
+- !lcc 'BL'
+title: Chaitanya and the Vaishnava Poets of Bengal
+url: http://www.gutenberg.org/ebooks/6817
